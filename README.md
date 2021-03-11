@@ -14,3 +14,5 @@ Rules of the game:
 5) The game ends in defeat if it is impossible to perform an action after the next move.
 
 After the game ends, a message is displayed that the game is over. To start the game again, press the ESC key.
+
+![2048](https://user-images.githubusercontent.com/61186198/110749691-837f0180-8252-11eb-8946-9d99a53e2c52.gif)
